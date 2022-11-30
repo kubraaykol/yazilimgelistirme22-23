@@ -1,0 +1,159 @@
+                                             BEZMIALEM VAKIF ÜNIVERSITESI
+Hakkinda
+?Bezmiâlem Vakif Üniversitesi'nin temelleri, Sultan II. Mahmud'un esi Bezmiâlem Valide Sultan tarafindan 1845 yilinda atildi. Döneminin en modern, donanimli, batiyla es düzeyde saglik ve egitim hizmeti sunan kurumu olma özelligine sahiptir. Kuruldugu günden bu yana saglik alanindaki hizmetini kesintisiz sekilde sürdüren Bezmiâlem, 2010 yilinda üniversiteye dönüserek bilgi birikimini akademik çalisma alanina tasidi. ?
+
+T.C. Vakiflar Genel Müdürlügü'ne bagli olarak hizmet veren Bezmiâlem Vakif Üniversitesi, ulusal ve uluslararasi camiada sayginlik kazanmis 700 akademisyeni ile Tip, Dis Hekimligi, Eczacilik, Saglik Bilimleri Fakülteleri ve Saglik Hizmetleri Meslek Yüksek Okulu bölümlerinde 3.200'ün üzerinde ögrenciye egitim hizmeti sunuyor.
+
+Hastaliklarin tedavisinde bitkilerin kullanilmasi ve etkilerinin arastirilmasini saglayan Türkiye'nin ilk Fitoterapi Merkezi'ne ev sahipligi yapan kurumda, ayrica ögrencilerinin gerçek hastalarla karsilasma öncesinde her türlü senaryoya göre hazirlanan mankenler üzerinde çalisabilmelerini saglayan Türkiye'nin ilk ve en kapsamli OSCE Salonlari ve Beceri Laboratuvari yer aliyor.
+
+Üniversitemiz yaklasik her 5 ögrencisine 1 akademisyen düsmesiyle ön plana çikmaktadir. Bezmiâlem Vakif Üniversitesi, 2 hastanesi ve ek hizmet binalari ile tüm ögrencilerin birebir pratik yapabilecegi sayida hastaya hizmet vererek ideal bir egitim ortami olusturuyor.
+
+Bezmiâlem Vakif Üniversitesi'nin, basta ABD'nin saglik alaninda önde gelen üniversitelerinden Johns Hopkins olmak üzere dünyanin saglik alaninda en saygin kuruluslarinin yer aldigi toplamda 35 ülkeden 82 üniversite ile is birligi bulunuyor.
+
+Mütevelli Heyeti 
+
+Av. Osman DEVELIOGLU - Baskan
+Yunus NACAR - Baskan Vekili
+Bekir Hulusi CANSU
+Prof. Dr. Ahmet GÜL
+Prof. Dr. Ahmet Emre BILGILI
+Burhan ERSOY
+Erol ÖKTEN
+Av. Namik AYHAN
+Fahrettin ÖZDEMIRCI
+Ziya Altan ELMAS
+Prof. Dr. Rümeyza KAZANCIOGLU - Rektör
+
+Rektörlük
+
+Rektör- ?Prof. Dr. Rümeyza KAZANCIOGLU ?
+Genel Sekreter-  Dr. Zeynep GÖRMEZOGLU
+Rektör Yardimcisi- Prof. Dr. Güven ÇETIN 
+Rektör Yardimcisi- ?Prof. Dr. Mehmet ?BILGIN ?
+Rektör Danismani- Prof. Dr. Erdal TEKARSLAN
+??Rektör Danismani- Prof. Dr. Turan ASLAN
+
+
+Senato
+Rektör  Prof. Dr. Rümeyza KAZANCIOGLU
+Rektör Yardimcilari   Prof. Dr. Güven ÇETIN
+                                    Prof. Dr. Mehmet BILGIN
+Genel Sekreter (Raportör)   Dr. Zeynep GÖRMEZOGLU
+Tip Fakültesi Dekani Prof. Dr. Ramazan ÖZDEMIR
+Dis Hekimligi Fakültesi Dekani  Prof. Dr. Dogan DOLANMAZ 
+Eczacilik Fakültesi Dekani ??Prof. Dr. Gülaçti TOPÇU
+Saglik Bilimleri Fakültesi Dekani  Prof. Dr. Erdal TEKAR?SLAN
+Saglik Hizmetleri MYO Müdürü  Prof. Dr. Ali Akçahan GEPDIREMEN
+?Saglik Bilimleri Enstitüsü Müdür?ü  Prof. Dr. Semra ÖZÇELIK
+Saglik Bilimleri Fakültesi Senatörü  Prof. Dr. Hülya Nilgün GÜRSES
+Tip Fakültesi Senatörü ?Prof. Dr. Nuran YILDIRIM
+Eczacilik Fakültesi Senatörü   Prof. Dr. Vecdi Melih ALTAN
+Dis Hekimligi Fakültesi Senatörü  Prof. Dr. Evrim DALKILIÇ
+
+Yönetim Kurulu
+Rektör Prof. Dr.  Rümeyza KAZANCIOGLU
+Tip Fakültesi Dekani Prof.Dr. Ramazan ÖZDEMIR?
+Dis Hekimligi Fakültesi Dekan?i  Prof. Dr. Dogan DOLANMAZ 
+Eczacilik Fakültesi Dekani  Pro?f. Dr. Gülaçti TOPÇU
+Saglik Bilimleri Fakültesi Dekani Prof. Dr. Erdal TEKARSLAN?
+Profesör Temsilcisi ?Prof. Dr. Ismet KIRKPINAR
+Profesör Temsilcisi -  Prof. Dr. Alpaslan MAYADA?GLI? 
+?Profesör Temsilcisi -  Prof. Dr. Türkinaz ASTI
+
+Fakülteler
+Tip Fakültesi 
+Dis Hekimligi Fakültesi 
+Eczacilik Fakültesi
+Saglik Bilimleri Fakültesi
+
+
+
+
+                                                            PROJE SÜRECI
+1-Analiz
+Projemin baslangiç asamasinda öncelikle projenin amacina dayali hedefleri ve ayrica istenen sonucu ayrintili olarak içeren bildiriyi inceledim.
+Istenilen raporda neler olmasi gerektiginin analizini yaptim. 
+Geçmis ders kayitlarini inceleyerek istenenlere yönelik yeni çikarimlar elde etmeye çalistim
+Proje yönetim süreçleriyle ilgili arastirmalar yaparak örnekler inceledim.
+Proje teslim tarihine göre projeyi tamamlama süresi tahmini yaparak arastirmalarimi parçalara ayirdim.
+Gereken çikarimlari toplayarak kisa notlar aldim. 
+UML diyagramlari için önerilen link üzerinden ilk kaynak incelememi yaptim. 
+Kaynak belirlerken bölümüm geregi internetten daha çok faydalanmaya karar verdim.
+Raporumu hazirlamaya basladigimda iletilen taleplerin sirasini takip ederek önce üniversiteyle ilgili arastirma yaptim.
+Kaynak olarak önceligi okulun resmi web sitesine verdim. Buradan gereken bilgileri raporuma ekledim.
+
+2-Tasarim 
+(UML Diyagramina yer verildi)
+ 
+                                has                1                                                    1       has
+                           
+                                                                                      1
+
+                                                                                     Has                                                1..*          
+                                                                                                                         
+
+                                                                                                                                                       1
+
+                                                                                   1..*
+
+                                                                                                   1..*
+
+
+                                                                                                     
+                                                                                                                                      
+                                                                                                                                         1
+
+
+
+3-Gelistirme
+Projeyi gelistirme asamasinda tasarimin en iyi halini alabilmesi için gereken programlamaya uzmanlar tarafindan baslanildi. UML diyagrami üzerinden iskelet ve tasarima baslanildi.  Nesne yönelimli programlama temelleri üzerine tasarim olusturulmaya baslanildi. Kullanicilar için kullanim kolayligi ve estetik açidan tasarim üzerinde  degerlendirmeler yapildi. Kullanilacak degisken tipleri ve fonksiyonlari tasarimin dinamik yapisina uygun dil seçimiyle yapildi. Bu yapiya gereken uygun alt yapi olusturularak tasarim uzman yazilimcilar tarafindan tamamlandi.
+4-Test 
+Öncelikle testin planlanmasi yapildi ve ardindan test tasarimi yapildi. Gereken tasarim ve planlamadan sonra test gerçeklestirildi. Alinan hatalara yönelik raporlama yapilarak yazilimcilara geri dönüs yapildi.
+5-Bakim
+Test asamasinda yakalanan hatalar bu asamada düzenlenildi. Bunun disinda kullanicilardan gelen yorumlar incelendi. Burada kullanicilar için kullanim kolayligi ve estetik açidan tasarim üzerinde yeniden degerlendirmeler yapilarak gereken güncellemeler yapildi. Sisteme müsteri talebi ile yeni islev ve özellikler de eklenmesi, performansin arttirilmasi gibi bakim çalismalari yapildiktan sonra asama tamamlanmistir
+
+                                              USE CASE DIYAGRAMLARI 
+
+
+
+                                                                                                  
+Ögrenci                                                                                                                  Ögretim Görevlisi
+
+
+
+
+
+
+
+
+                                                                                                                                Yönetim Kurulu
+                                                                                                                          
+                                                                                                                                                                                                                                          YAZILIM SÜREÇ MODELI 
+V- Modeli (Dogrulama Modeli): Kalite kontrolün öncelikli deger oldugu is akisi olan V Modeli (Dogrulama Modeli) seçtim. Bu modelde her asamada test gerekmektedir. Yani yazilim ve test asamalari paralel olarak çalismaktadir, dolayisiyla da hata olasiliginin düsük oldugu modeldir. 
+Ürünün dogru olusup olusmamasi, yazilim ihtiyacinin karsilanip karsilanmamasi sorularini cevaplayan bir modeldir. Bu süreçte  projenin gereklilikleri, kod ve tasarimsal hatalar erkenden tespit edildigi için her asama, bir sonraki asama baslamadan önce kendini tamamlamaktadir. Yani kullaniminin kolay olmasi da modeli seçmek için önemli bir seçenektir.
+Bu modelin ilk adimi, Ürün gereksinimlerini ve beklentileri anlamak.  Isin ihtiyaçlarini, kabul testi tasarimi seklinde tamamlamaktadir. Ikinci adimi, Sistem tasarimina geçerek, teknik ihtiyaçlarini nasil kullanacagini belirlemektedir. Tasarim asamasina gelince veri tabani tablolarini ve teknoloji detaylarini tamamlar. Ve son olarak kodlama adiminda, sistem ve mimari gereksinimlere göre en uygun program diline kadar verip tasarladigi modülü yürütmeye baslar.
+
+
+
+                                 
+                                                       Kabul Testi Tasarimi
+
+
+
+                                                      Sistem Test Tasarimi
+ 
+
+                                                       Bütünleme Test Tasarimi
+
+
+
+                                                          Birim Test Tasarimi
+
+ 
+                                                                                         
+
+
+
+
+
+
